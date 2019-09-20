@@ -1,0 +1,6 @@
+framework module Pods_SlazerTask {
+  umbrella header "Pods-SlazerTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
